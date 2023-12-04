@@ -1,5 +1,5 @@
 
-engine = open("tres\\input_sosa.txt", "r")
+engine = open("C:\\Users\\Afonso deSousa\\OneDrive - FCT NOVA\\Documents\\Code\\feliznavidad\\tres\\engine.txt", "r")
 
 matrix = []
 symbols = ["*", "=", "/", "@", "$", "%", "&", "#", "+", "-"]

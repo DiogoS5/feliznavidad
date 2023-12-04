@@ -1,7 +1,7 @@
 #2554 too low
 import re
 
-input = open(r"dos\input.txt", "r")
+input = open(r"dos\test.txt", "r")
 
 result = 0
 
